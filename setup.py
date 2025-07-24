@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="echo-report-lab",
-    version="0.1.0",
+    version="0.1.1",
     author="Patrick Rutledge",
     description="Civic-grade CNN training lab with HTML export and symbolic reporting",
     packages=find_packages(exclude=["tests", "*.ipynb"]),
