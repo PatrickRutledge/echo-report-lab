@@ -1,0 +1,22 @@
+# Python env and cache
+echo-env/
+__pycache__/
+
+# IDE and notebook clutter
+*.ipynb_checkpoints
+*.log
+*.swp
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Training outputs
+*.html
+*.png
+*.csv
+
+# Python packaging
+*.egg-info/
+*.pkl
+*.h5
